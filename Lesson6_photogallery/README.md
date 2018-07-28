@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 28,2018)
 
 ### Student Name:  
-(First and Last Name)
+(Ayana Torres)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this asignment we were asked to creat a photo gallery.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ayana89.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How a browser object model is used.
+2. DOM tree is a structure of objects with set of properties and methods.
+3. Tag name which returns array of elements matching a specified tag name. Tag name is a name of a element.
